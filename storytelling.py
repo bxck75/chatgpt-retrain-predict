@@ -3,7 +3,7 @@ import openai
 import json
 
 # Set up your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'OPENAI-API-KEY'
 
 # Define the text data for training
 training_data = """
